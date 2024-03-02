@@ -1,0 +1,19 @@
+<?php 
+require_once('upperpart.php');
+?>
+<div class="issuecontainer">
+<?php
+require_once('colume1.php');
+?>
+
+<div class ="column23">
+<?php
+require_once('colume-jaist.1.1.1.php');
+
+?>
+</div>
+</div>
+<?php 
+require_once('bottompart.php');
+?>
+
