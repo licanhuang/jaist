@@ -13,9 +13,7 @@
     <p class="address">Published by: Research Institute of Information Technology (Tokyo office), Hangzhou Domain Zones Technology Co., Ltd.</br> 
      Koto-ku,Tokyo, Japan</p> 
    </div>
-   <div class="psubmit">
-   JAIST Journal email address: jaistjournal@gmail.com
-   </div>
+   
 </div>
 <div>
 </div>

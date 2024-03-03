@@ -3,8 +3,9 @@
 
 Prepare your manuscript in English, adhering to the journal's template and formatting guidelines. 
 These guidelines and templates can be found on <a href ="JAIST_template4docx.docx">JAIST template for Docx</a> and  <a href ="Jaist_latext_template.zip">JAIST template for Latex</a>.
-
-
+</br></br>
+   Paper submission via email : jaistjournal@gmail.com
+ 
 </br>
 </br>
 <h3>2. Originality and Ethics:</h3>

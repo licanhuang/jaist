@@ -1,5 +1,11 @@
 /* Reset some default styles */
-body, h1, h2, h3, p, ul, li {
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
   margin: 0;
   padding: 0;
 }
@@ -29,10 +35,11 @@ body {
 
 
 .container {
- margin-top: 10px;
+  margin-top: 10px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 10px; /* Optional gap between columns */
+  grid-gap: 10px;
+  /* Optional gap between columns */
 }
 
 .container {
@@ -41,15 +48,14 @@ body {
 
 
 .issuecontainer {
- margin-top: 10px;
+  margin-top: 10px;
   display: grid;
-  grid-template-columns: 20% 66% ; 
-  grid-gap: 10px; /* Optional gap between columns */
+  grid-template-columns: 20% 66%;
+  grid-gap: 10px;
+  /* Optional gap between columns */
 }
 
-.container {
-  width: 90%;
-}
+
 
 .issuecontainer {
   width: 90%;
@@ -67,15 +73,15 @@ body {
 }
 
 
-.wrapper .sidebar{
-    background: rgb(5, 68, 104);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 225px;
-    height: 100%;
-    padding: 20px 0;
-    transition: all 0.5s ease;
+.wrapper .sidebar {
+  background: rgb(5, 68, 104);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 225px;
+  height: 100%;
+  padding: 20px 0;
+  transition: all 0.5s ease;
 }
 
 
@@ -89,11 +95,12 @@ body {
 
 
 .column3 {
- margin-top: 10px;
- margin-left: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
   width: 36%;
-  float: right;
+  float: left;
   box-sizing: border-box;
+  text-align: left;
 
 }
 
@@ -110,25 +117,49 @@ body {
 }
 
 .colmenu {
- margin-top:50 px;
- margin-left:20px;
+  margin-top: 50 px;
+  margin-left: 20px;
 
 }
+
+ 
+
 
 .volume {
- margin-top: 10px;
+
+ 
+  margin-top: 10px;
+  margin-left: 20px;
+ 
+  float: right;
+  box-sizing: border-box;
+  text-align: left;
 }
 
 
+.volume1 {
+  margin-left: 10px;
+  width: 18%;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+}
+.volume2 {
+  margin-left: 10px;
+  width: 68%;
+  float: left;
+  box-sizing: border-box;
+  text-align: left;
+}
 
 .jname {
-float: left  ;
+  float: left;
 }
 
 .psubmit {
- margin-left: 20px;
- margin-top: 20px;
-float: right;
+  margin-left: 20px;
+  margin-top: 20px;
+  float: right;
 }
 
 .issn {
@@ -139,7 +170,8 @@ float: right;
 
 /* ... Rest of the CSS code ... */
 
-.publisher, .address {
+.publisher,
+.address {
   font-style: italic;
   color: #555;
   margin-bottom: 10px;
@@ -151,7 +183,7 @@ float: right;
 }
 
 .publisher {
-  
+
   font-size: 1.0em;
 }
 
@@ -160,7 +192,7 @@ float: right;
 }
 
 .footer {
-margin-top: 10px;
+  margin-top: 10px;
   width: 90%;
   background-color: #f0f0f0;
   padding: 20px;
@@ -176,7 +208,7 @@ margin-top: 10px;
 }
 
 
-.author{
-font-size: 14px;
+.author {
+  font-size: 14px;
 
 }
